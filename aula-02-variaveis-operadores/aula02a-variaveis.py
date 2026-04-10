@@ -1,5 +1,17 @@
 '''from xml.dom.minidom import ReadOnlySequentialNamedNodeMap
 
+git connect:
+
+
+$ git config --global user.email "renan.fms.oficial@gmail.com"
+
+$ git config --global user.name "RenanMano"
+
+
+
+
+
+
 print(7 + 4)
 print("7 + 4")
 print("7" + "4") # CONCATENAÇÃO DE STRINGS'''
